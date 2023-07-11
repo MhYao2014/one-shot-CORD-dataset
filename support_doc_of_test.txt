@@ -37,7 +37,7 @@ test_support = {
         "receipt_00035": "receipt_00360",
         "receipt_00036": "receipt_00172",
         "receipt_00037": "receipt_00420",
-        "receipt_00038": "receipt_00059", # valid
+        "receipt_00038": "valid_receipt_00059", # valid
         "receipt_00039": "None",
         "receipt_00040": "receipt_00272",
         "receipt_00041": "None",
@@ -52,7 +52,7 @@ test_support = {
         "receipt_00050": "receipt_00102",
         "receipt_00051": "receipt_00012",
         "receipt_00052": "receipt_00213",
-        "receipt_00053": "receipt_00078", # valid
+        "receipt_00053": "valid_receipt_00078", # valid
         "receipt_00054": "None",
         "receipt_00055": "receipt_00590",
         "receipt_00056": "receipt_00037",
